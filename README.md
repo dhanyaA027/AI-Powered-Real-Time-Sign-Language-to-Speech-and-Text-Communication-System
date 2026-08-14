@@ -1,0 +1,1 @@
+# AI-Powered-Real-Time-Sign-Language-to-Speech-and-Text-Communication-System
