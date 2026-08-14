@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+data/landmarks.csv
+data/testing_checklist.csv
+models/*.pkl
+dataset/*/*
+!dataset/.gitkeep
+!dataset/A/.gitkeep
+!dataset/B/.gitkeep
+!dataset/C/.gitkeep
+!data/.gitkeep
+!models/.gitkeep
